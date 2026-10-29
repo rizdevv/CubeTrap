@@ -1,0 +1,8 @@
+name: "CubeTrap"
+version: "1.0.0"
+main: "CubeTrap"
+api: "5.0.0"
+
+author: "rizdevv"
+
+load: "STARTUP"
